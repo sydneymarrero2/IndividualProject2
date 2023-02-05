@@ -27,4 +27,4 @@ gratuity = subTotal * gratuityRate / 100
 total = subTotal + gratuity
 print('The gratuity is ',round(gratuity,2),' and the total is ',round(total,2))
 
-"<img width="475" alt="Screenshot 2023-02-04 at 8 00 27 PM" src="https://user-images.githubusercontent.com/117947732/216796316-e40878a2-fd6d-4f1b-a64a-80824d32d0f6.png">)
+<img width="475" alt="Screenshot 2023-02-04 at 8 00 27 PM" src="https://user-images.githubusercontent.com/117947732/216796316-e40878a2-fd6d-4f1b-a64a-80824d32d0f6.png">)
