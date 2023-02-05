@@ -13,6 +13,9 @@ futureInvestmentAmount = investmentAmount * ((1 + MonthlyInterestRate) ** Number
 print("Future investment value is", round(futureInvestmentAmount, 2))
 
 
+![image](<img width="960" alt="Screenshot 2023-02-04 at 7 58 13 PM" src="https://user-images.githubusercontent.com/117947732/216796254-c9b72372-9a11-400f-8b54-4dcb7beab60b.png">)
+
+
 # Sydney Marrero
 # smarrero2@student.gsu.edu
 
